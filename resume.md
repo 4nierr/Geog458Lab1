@@ -1,5 +1,9 @@
 # Ryan Fournier
 
+![headshot photo](https://katrinacravy.com/wp-content/uploads/2016/12/Funny-Headshot-Picture.png)
+
+>Work harder so you can make more money
+
 fakeemail@gmail.com
 
 http://fakewebsite.com
@@ -18,14 +22,13 @@ I believe I qualify for the job because I am qualified.
 
 * [Hamburger University]  where I study at McDonalds.
 
-** Patty Flipper (Cook)** (2001-present)
+**Patty Flipper (Cook)** (2001-present)
 
-I flip patties for a living like Spongebob
+* I flip patties for a living like Spongebob
+* eating hamburgers to ensure quality
+* **recognized by mr ronald mcdonald**
 
-
-- **recognized by mr ronald mcdonald**
-
-
+![Picture of a big mac](https://www.mcdonalds.com/content/dam/usa/nfl/nutrition/items/regular/desktop/t-mcdonalds-Big-Mac.jpg)
 
 
 
