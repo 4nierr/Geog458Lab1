@@ -4,11 +4,11 @@
 
 >Work harder so you can make more money
 
-fakeemail@gmail.com
+[email](fakeemail@gmail.com)
 
-http://fakewebsite.com
+[website](http://fakewebsite.com)
 
-http://www.linkedin.com/in/RyanFournier
+[linkedin](http://www.linkedin.com/in/RyanFournier)
 
 # Summary
 
